@@ -1,263 +1,133 @@
+````md
 <div align="center">
 
-<!--- ─────────────────────────────────────────────────── --->
-<!---                    HEADER PREMIUM                   --->
-<!--- ─────────────────────────────────────────────────── --->
+# Monithelly Simões
+
+### Data & Business Analyst | Power BI · SQL · Python  
+### Process Improvement & Automation | Lean Six Sigma
 
 <br>
 
-```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-```
+<p>
+Transformando dados em decisões estratégicas através de analytics, automação e melhoria contínua.
+</p>
 
 <br>
 
-# MONITHELLY SIMÕES
-
-<br>
-
-**`Data & Business Analyst`**
-
-<br>
-
-> *Transforming complex data into decisions that drive real business impact.*
-
-<br>
-
-```
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-monithellysimoes-6C63FF?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://www.linkedin.com/in/monithellysimoes)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-monithelly.github.io-A78BFA?style=flat-square&logo=githubpages&logoColor=white&labelColor=0D0D0D)](https://monithelly.github.io)
-
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=A277FF&center=true&vCenter=true&width=700&lines=Business+Intelligence+%26+Data+Analytics;Dashboards+%7C+Automation+%7C+Operational+Efficiency;Power+BI+%7C+SQL+%7C+Python;Turning+data+into+business+impact" />
 
 </div>
 
-<!--- ─────────────────────────────────────────────────── --->
-<!---                     SOBRE MIM                       --->
-<!--- ─────────────────────────────────────────────────── --->
+---
 
-<br>
+## About Me
 
-<div align="center">
-  <img src="https://img.shields.io/badge/─────────────────────────────────────────────────────────────────────────────-0D0D0D?style=flat-square" />
-</div>
+Sou profissional focada em análise de dados, Business Intelligence e melhoria contínua, atuando na criação de dashboards, automações e análises estratégicas que apoiam a tomada de decisão e impulsionam eficiência operacional.
 
-<br>
+Tenho interesse em projetos voltados para:
+- Business Intelligence
+- Data Analytics
+- Process Improvement
+- Automation
+- Operational Efficiency
+- Data Storytelling
+- KPI Monitoring
+- Continuous Improvement
 
-## `$ whoami`
+---
 
-<br>
-
-Atuo na interseção entre dados, processos e estratégia de negócio. Meu trabalho envolve transformar dados brutos em inteligência operacional — identificar gargalos, propor melhorias e construir soluções analíticas que apoiam decisões de forma clara e objetiva.
-
-Desenvolvo dashboards que vão além da visualização: são ferramentas de diagnóstico. Automatizo processos manuais para liberar capacidade analítica. E quando encontro um problema de negócio, começo sempre pela pergunta certa.
-
-Combinando metodologias como **Lean Six Sigma** com ferramentas modernas de BI e análise, entrego não só relatórios — entrego contexto, clareza e direção.
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/─────────────────────────────────────────────────────────────────────────────-0D0D0D?style=flat-square" />
-</div>
-
-<br>
-
-<!--- ─────────────────────────────────────────────────── --->
-<!---                  ESPECIALIDADES                     --->
-<!--- ─────────────────────────────────────────────────── --->
-
-## `$ ls ~/expertise`
-
-<br>
+## Core Expertise
 
 <div align="center">
 
-| &nbsp;&nbsp;**Área**&nbsp;&nbsp; | &nbsp;&nbsp;**Foco**&nbsp;&nbsp; |
-|:---|:---|
-| 📊 &nbsp;Business Intelligence | Modelagem de dados, KPIs, dashboards executivos |
-| 🔍 &nbsp;Data Analytics | Análise exploratória, diagnóstico de problemas, storytelling |
-| ⚙️ &nbsp;Process Improvement | Mapeamento de processos, redução de desperdício, Lean Six Sigma |
-| 🤖 &nbsp;Automation | Automação de relatórios, pipelines de dados, workflows |
-| 📈 &nbsp;Operational Efficiency | Monitoramento de performance, análise de causa-raiz |
-| 🎯 &nbsp;KPI Monitoring | Definição de métricas, acompanhamento estratégico |
-| 🗣️ &nbsp;Data Storytelling | Comunicação analítica, apresentação para stakeholders |
+| Analytics | Business | Operations |
+|---|---|---|
+| Data Analysis | Process Improvement | Operational Efficiency |
+| Dashboard Development | Business Intelligence | Lean Six Sigma |
+| KPI Monitoring | Automation | Continuous Improvement |
+| Data Storytelling | Strategic Insights | Performance Analysis |
 
 </div>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/─────────────────────────────────────────────────────────────────────────────-0D0D0D?style=flat-square" />
-</div>
-
-<br>
-
-<!--- ─────────────────────────────────────────────────── --->
-<!---                  TECNOLOGIAS                        --->
-<!--- ─────────────────────────────────────────────────── --->
-
-## `$ cat ~/.techstack`
-
-<br>
+## Tech Stack
 
 <div align="center">
 
-**Analytics & BI**
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 
-<br>
+<br><br>
 
-![Power BI](https://img.shields.io/badge/Power_BI-0D0D0D?style=for-the-badge&logo=powerbi&logoColor=A78BFA)
-&nbsp;
-![DAX](https://img.shields.io/badge/DAX-0D0D0D?style=for-the-badge&logo=powerbi&logoColor=7C3AED)
-&nbsp;
-![Excel](https://img.shields.io/badge/Excel-0D0D0D?style=for-the-badge&logo=microsoftexcel&logoColor=A78BFA)
-
-<br>
-
-**Languages & Data**
-
-<br>
-
-![SQL](https://img.shields.io/badge/SQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
-&nbsp;
-![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=7C3AED)
-
-<br>
-
-**Version Control**
-
-<br>
-
-![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=A78BFA)
-&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=7C3AED)
+<img src="https://img.shields.io/badge/Power_BI-161616?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-161616?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-161616?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DAX-161616?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-161616?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lean_Six_Sigma-161616?style=for-the-badge"/>
 
 </div>
 
-<br>
+---
+
+## Featured Projects
 
 <div align="center">
-  <img src="https://img.shields.io/badge/─────────────────────────────────────────────────────────────────────────────-0D0D0D?style=flat-square" />
+
+| Project | Description | Stack |
+|---|---|---|
+| [Portfolio](https://monithelly.github.io) | Professional portfolio with dashboards and analytics projects | Power BI |
+| [Distrimax Case](https://github.com/monithelly/distrimax-case) | Inventory paradox diagnosis and ABC analysis business case | SQL · Power BI · Business Analysis |
+
 </div>
 
-<br>
+---
 
-<!--- ─────────────────────────────────────────────────── --->
-<!---                  GITHUB STATS                       --->
-<!--- ─────────────────────────────────────────────────── --->
-
-## `$ git log --stat`
-
-<br>
+## GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/monithelly">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=monithelly&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&bg_color=0D0D0D&ring_color=6D28D9&hide_rank=false&include_all_commits=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=monithelly&show_icons=true&theme=transparent&hide_border=true&title_color=A277FF&text_color=FFFFFF&icon_color=A277FF"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monithelly&layout=compact&theme=transparent&hide_border=true&title_color=A277FF&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+## Professional Focus
+
+```text
+• Business Intelligence
+• Data Analytics
+• Process Optimization
+• Dashboard Development
+• Operational Efficiency
+• Automation & Continuous Improvement
+• Data-Driven Decision Making
+````
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/monithellysimoes">
+<img src="https://img.shields.io/badge/LinkedIn-1F1F1F?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/monithelly">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monithelly&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=C4B5FD&bg_color=0D0D0D&langs_count=6" />
+
+<a href="https://monithelly.github.io">
+<img src="https://img.shields.io/badge/Portfolio-1F1F1F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/─────────────────────────────────────────────────────────────────────────────-0D0D0D?style=flat-square" />
-</div>
-
-<br>
-
-<!--- ─────────────────────────────────────────────────── --->
-<!---               PROJETOS EM DESTAQUE                  --->
-<!--- ─────────────────────────────────────────────────── --->
-
-## `$ ls ~/projects --featured`
-
-<br>
+---
 
 <div align="center">
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">&nbsp;&nbsp;Projeto</th>
-      <th align="left">&nbsp;&nbsp;Descrição</th>
-      <th align="center">&nbsp;&nbsp;Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left">
-        <a href="https://monithelly.github.io"><strong>Portfolio</strong></a>
-      </td>
-      <td align="left">Portfólio profissional com dashboards e projetos de dados</td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Power_BI-6D28D9?style=flat-square&logoColor=white&logo=powerbi" />
-      </td>
-    </tr>
-    <tr>
-      <td align="left">
-        <a href="https://github.com/monithelly/distrimax-case"><strong>Distrimax Case</strong></a>
-      </td>
-      <td align="left">Diagnóstico do paradoxo de estoque e análise ABC</td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/SQL-4C1D95?style=flat-square&logoColor=white&logo=postgresql" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/Power_BI-6D28D9?style=flat-square&logoColor=white&logo=powerbi" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A277FF&height=120&section=footer"/>
 
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/─────────────────────────────────────────────────────────────────────────────-0D0D0D?style=flat-square" />
-</div>
-
-<br>
-
-<!--- ─────────────────────────────────────────────────── --->
-<!---                    CONTATO                          --->
-<!--- ─────────────────────────────────────────────────── --->
-
-## `$ curl contact.json`
-
-<br>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monithellysimoes)
-&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-4C1D95?style=for-the-badge&logo=githubpages&logoColor=white)](https://monithelly.github.io)
-
-<br>
-
-</div>
-
-<br>
-
-<div align="center">
-
 ```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-```
-
-<sub>Data & Business Analyst · Power BI · SQL · Python · Lean Six Sigma</sub>
-
-```
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
-
-</div>
